@@ -13,9 +13,7 @@
     <classes>
       
        <class name="com.ETA.testcases.CreateOrderPageTest">
-       <methods>
-       <include name="verifyReturnToDTPLinkTest"/>
-       </methods>
+     
        </class>
     </classes>
   </test> <!-- Test -->
